@@ -10,7 +10,7 @@ from datetime import datetime,timedelta
 API_KEY = ""
 chat_id = ""
 my_chat_id = ""
-with open('.env', 'r') as openfile:
+with open('config.env', 'r') as openfile:
     json_object = json.load(openfile)
     API_KEY = json_object["API_KEY"]
     chat_id = json_object["CHAT_ID"]
