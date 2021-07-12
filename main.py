@@ -240,5 +240,5 @@ def sendPollToAdmin():
     }
     response = requests.post(telegram_message_url, json=telegram_message_data)
 
-
+bot.deleteWebhook()
 bot.polling()
