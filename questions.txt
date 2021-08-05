@@ -1,0 +1,92 @@
+Question||A||B||C||D||answer||Exlpanation
+How many oceans are there on earth?||7||4||5||1||1||Historically, there are four named ocean basins:the Atlantic, Pacific, Indian and Arctic. However, most countries - including the united states - now recognize the southern (Antarctic) as the fifth.
+On the the show friends, how many are the main characters?||6||7||3||5||0||Ross, Monica, Rachel, Candler, Joey and Pheobe
+Which country is the largest?||Canada||USA||China||Russia||3
+Prague is a capital of which country?||Slovakia||Czechia||Hungary||Croatia||1
+Who was the fourty fifth president of USA?||Barack Obama||Joe Biden||Donald Trump||Abraham Lincoln||2
+What are the three main colors?||Red, yellow, green||Yellow, blue, black||Black, white, red||Blue, red yellow||3
+Who painted the mona lisa?||Pablo picasso||Leonardo da vinci||Andy warhol||Vincent van Gogh||1
+Which actor played the role of Jack in titanic?||Leonardo Dicaprio||Brad Pitt||Daniel Radcliffe||Robert Downey Jr.||0
+What percentage of the human body is water?||30||40||60||70||2
+What is the largest animal on earth?||Elephant||Blue Whale||Colossal Squid||Brown Bear||1
+What is 'RAM' an abbreviation for?||Reliable Access Memory||Random Archive Memory||Random Access Memory||Reliable Archive Memory||2
+How many countries are there?||198||200||190||195||3
+How many teams are there in Germany Bundesliga?||20||18||23||16||1
+Which acid is found in a lemon?||Citric acid||Acetic acid||Sulphuric acid||There is no acid in lemons||0
+who is the most followed person on Instagram?||Cristiano Ronaldo||Ariana Grande||Dwayne Johnson(The Rock)||Justin Bieber||0||Cristiano Ronaldo is the most followed person on instagram with 290 million followers.
+Which role does Emilia Clarke play on the series Game of Thrones?||Sansa Stark||Daenerys Targaryen||Cercie Lannister||Arya Stark||1
+What is the largest organ of a human?||Liver||Kidney||Heart||Skin||3
+What color do we get by mixing yellow and blue?||Purple||Green||Orange||Red||1
+How many inches in 1cm?||1||2.54||0.394||0.547||2
+How many views does the most watched video on YouTube have?||4.9 billion||5.2 billion||7.2 billion||7.9 billion||3||"Baby shark dance" - Pinkfong Kids' Songs and Stories is currently the most viewed video on Youtube wit 7.91 billion views
+Which country is the most populated?||India||China||United States||Russia||1||With 1,397.9 million china is the most populated country in the world followed by India the US.
+How many chambers does the heart have?||4||3||5||2||0||The heart has 4 chambers. Right atrium, right ventricle, left artium and left ventricle.
+In which continent is the amazon forest located?||North America||Africa||South America||Europe||2
+Where was the origin of Covid-19?||America||China||India||France||1
+Who won the ballon d'or in 2020?||Lionel Messi||Cristiano Ronaldo||Robert Lewandowski||No one won||3||The 2020 ballan d'or was cancelled due to the Corona virus.
+Which vitamin do we get from the sun?||Vitamin A||Vitamin B||Vitamin C||Vitamin D||3
+What is the fastest land animal on earth?||Rabbit||Leopard||Lion||Greyhound||1||Leopards are the fastest land animals with a speed of 75 miles per hour. They can also accelerate to a speed of 60 miles per hour in 3 seconds.
+Who is the batman?||Alfred Pennyworth||Lucius Fox||James Gorden||Bruce Wayne||3
+Who was the first person to go to the moon?||Alan Bean||Edwin Buzz Aldrin||Neil Armstrong||Pete Conrad||2||Although both Niel Armstrong and Buzz Aldrin landed on the moon together Niel Armstrong was the first person to actually walk on the moon.
+How many letters does the Hawaiian alphabet contain?||26||13||17||20||1
+What is the tallest building in the world?||Burj Khalifa||Shanghai Tower||Lotte World Tower||Ping'an International||0||Burj Khalifa is the tallest building which is 828 meters tall.
+What is the official language of Brazil?||German||English||Portuguese||Spanish||2
+Who played the Joker on The Dark Night?||Joaquin Phoenix||Heath Ledger||Jared Leto||Cesar Romero||1
+What is the capital of Kenya?||Kampala||Abuja||Accra||Nairobi||3
+Who won the last FIFA World cup?||Croatia||Germany||France||England||2
+How many states are in the USA?||49||50||51||52||1
+How long does it take earth to revolve around the sun?||1 day||1 week||1 month||None||3||It takes 1 year to revolve around the sun.
+How many time zones are there?||6||12||24||48||2
+What is Tiger Woods' profession?||Tennis player||Golfer||Footballer||Race car driver||1
+What is the real name of Mr. Bean?||Rowan Atkinson||Will Farrell||Raymond Flower||Eric Atkinson||0
+When did WWII start?||1914||1918||1939||1945||2
+What does CPU stand for?||Command Processing Unit||Central Processing Unit||Central Power Unit||Command Power Unit||1
+Where is the Bermuda triangle found?||Pacific Ocean||Arctic Ocean||Indian Ocean||North Atlantic Ocean||3
+In which continent is Vatican city?||Asia||North America||Europe||Africa||2
+Which one is the largest car company?||Toyota||Volkswagen||General Motors||Ford Motors||1
+What is the rarest element?||Francium||Berkelium||Astatine||Oganesson||2
+What is the most watched movie on Netflix?||Extraction||Bird Box||The Old Guard||Project Power||0
+Which one of these movies was Will Smith a cast?||Love & Other Drugs||Wild Wild West||Moneyball||Land of The Lost||1
+Who won the premier league in 2019?||Liverpool||Manchester United||Manchester City||Chelsea||0
+What is a group of lions called?||An Army||A Sloth||A Streak||A Pride||3
+What is the only metal liquid at room temperature?||Bromine||Mercury||Radium||Uranium||1
+How many la liga titles does Real Madrid have?||26||13||34||31||2
+When is mothers day?||2021-06-20 00:00:00||2021-05-08 00:00:00||2021-02-14 00:00:00||2021-03-08 00:00:00||1
+Which planet is the largest?||Sun||Jupiter||Earth||Saturn||1
+Who won best actor in 2020 Oscars?||Leonardo Dicaprio||Adam Driver||Antonio Banderas||Joaquin Phoenix||3
+What is the chemical formula of water?||H2O||H2O2||HO2||HO||0
+How many sides does an Octagon have?||10||8||6||4||1
+What is the SI Unit of current?||Newton||Ohm||Ampere||Volt||2
+What is the most expensive currency?||Euro||United States Dollar||Pound Sterling||Kuwaiti Dinar||3
+Which organ filters blood?||Heart||Kidney||Bone Marrow||Lung||1
+The radius of the earth is?||12,742KM||4,440KM||8,880KM||6,371KM||3
+In which layer is Ozone found?||Stratosphere||Troposphere||Mesosphere||Thermosphere||0
+Which one is not part of the UK?||Wales||Ireland||Scotland||England||1||The forth country that is part of the UK is North Ireland.
+What is the national animal of Gabon?||Black Panther||Unicorn||Lion||Eagle||0
+Which empire had no written language?||Egyptian||Roman||Incan||Aztec||2
+What was the Turkish city of Istanbul called until 1923?||Hierapolis||Constantinople||Ankara||Ephesus||1
+What is the longest river in the world?||Amazon||Parana||Yangtze||Nile||3||The Nile river is the longest river which is 6650km long.
+What is the best-selling book series of 21st century?||Harry Potter||The Hunger Games||A Song of Ice and Fire||Twilight||0
+Who invented the World Wide Web?||Bob Kahn||Tim Berners-Lee||Charles Babbage||Steve Jobs||1
+What is the capital of North Ireland?||Londonderry||Dublin||Belfast||Lisburn||2
+What is the value of Pi?||0.14||1.14||2.14||3.14||3
+How many keys does a classic piano have?||72||88||82||90||1
+Which football team is known as 'The Red Devils'?||Liverpool||Arsenal||Bayern Munich||Manchester United||3
+What is the smallest country in the world?||Vatican City||Republic of San Marino||Tuvalu||Republic of Malta||0
+Which driver has the most Formula 1 wins?||Michael Schumacher||Lewis Hamilton||Ayrton Senna||Alaln Prost||1
+Which of these words is not a Palindrome?||Reviver||Level||Render||Redivider||2||A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward.
+How long is a Sidereal day?||23 hours, 56 minutes||24 hours, 4 minutes||24 hours, 2 minutes||24 hours||0
+Which country gives the Nobel Prize?||USA||Sweden||France||Norway||1
+Who is the CEO of Apple?||Steve Jobs||Steve Wozniak||Mark Zuckerberg||Tim Cook||3
+Who doesn't share food?||Ross||Phoebe||Joey||Chandler||2
+Which one is room temprature?||0° C||21° C||42°C||68° C||1
+How many moons does Jupiter have?||36||9||79||17||2
+Which city is also known as Gotham?||New York||Seattle||Los Angeles||Denver||0
+What is the study of Diseases?||Biology||Pathology||Entomology||Vexillology||1
+At what temprature does ice melt?||32° C||100° C||42° C||0° C||3
+How many times has England won the men's football World cup?||4||2||1||0||2
+What is a group of pandas called?||Sleuth||Embarrassment||Team||Fluffle||1
+Pyrophobia is the fear of?||Heat||Needles||Light||Fire||3
+How much is 0 kelvin in degree celcius?||273° C||-273° C||32° C||-32° C||1
+Which planet is called "The Red Planet'?||Jupiter||Mars||Venus||Mercury||1
+In which tv series is the character Barney Stinson?||Friends||New Girl||How I met your mother||Two and a half men||2
