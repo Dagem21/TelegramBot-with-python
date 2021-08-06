@@ -79,14 +79,14 @@ How long is a Sidereal day?||23 hours, 56 minutes||24 hours, 4 minutes||24 hours
 Which country gives the Nobel Prize?||USA||Sweden||France||Norway||1
 Who is the CEO of Apple?||Steve Jobs||Steve Wozniak||Mark Zuckerberg||Tim Cook||3
 Who doesn't share food?||Ross||Phoebe||Joey||Chandler||2
-Which one is room temprature?||0° C||21° C||42°C||68° C||1
+Which one is room temprature?||0Â° C||21Â° C||42Â°C||68Â° C||1
 How many moons does Jupiter have?||36||9||79||17||2
 Which city is also known as Gotham?||New York||Seattle||Los Angeles||Denver||0
 What is the study of Diseases?||Biology||Pathology||Entomology||Vexillology||1
-At what temprature does ice melt?||32° C||100° C||42° C||0° C||3
+At what temprature does ice melt?||32Â° C||100Â° C||42Â° C||0Â° C||3
 How many times has England won the men's football World cup?||4||2||1||0||2
 What is a group of pandas called?||Sleuth||Embarrassment||Team||Fluffle||1
 Pyrophobia is the fear of?||Heat||Needles||Light||Fire||3
-How much is 0 kelvin in degree celcius?||273° C||-273° C||32° C||-32° C||1
-Which planet is called "The Red Planet'?||Jupiter||Mars||Venus||Mercury||1
+How much is 0 kelvin in degree celcius?||273Â° C||-273Â° C||32Â° C||-32Â° C||1
+Which planet is called 'The Red Planet'?||Jupiter||Mars||Venus||Mercury||1
 In which tv series is the character Barney Stinson?||Friends||New Girl||How I met your mother||Two and a half men||2
