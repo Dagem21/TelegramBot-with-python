@@ -91,6 +91,3 @@ How much is 0 kelvin in degree celcius?||273° C||-273° C||32° C||-32° C||1
 Which planet is called 'The Red Planet'?||Jupiter||Mars||Venus||Mercury||1
 In which tv series is the character Barney Stinson?||Friends||New Girl||How I met your mother||Two and a half men||2
 What is the largest living organism?||Honey Mushroom||Blue Whale||Giant Sequoia||African Bush Elephant||0||The largest living organism is a single gigantic specimen of honey mushroom (Armillaria ostoyae), discovered in the Malheur National Forest, Oregon, USA.
-
-What is the largest living organism?||Honey Mushroom||Blue Whale||Giant Sequoia||African Bush Elephant||0||The largest living organism is a single gigantic specimen of honey mushroom (Armillaria ostoyae), discovered in the Malheur National Forest, Oregon, USA.
-What is the largest living organism?||Honey Mushroom||Blue Whale||Giant Sequoia||African Bush Elephant||0||The largest living organism is a single gigantic specimen of honey mushroom (Armillaria ostoyae), discovered in the Malheur National Forest, Oregon, USA.
