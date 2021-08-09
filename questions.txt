@@ -93,3 +93,4 @@ In which tv series is the character Barney Stinson?||Friends||New Girl||How I me
 What is the largest living organism?||Honey Mushroom||Blue Whale||Giant Sequoia||African Bush Elephant||0||The largest living organism is a single gigantic specimen of honey mushroom (Armillaria ostoyae), discovered in the Malheur National Forest, Oregon, USA.
 How many individuals cells are there on a sudoku grid?||27||63||81||90||2
 Where was Pizza invented?||China||Germany||France||Italy||3||Pizza originated in Naples, Italy.
+Who is the father of Mathematics?||Nicomachus||Euclid||Archimedes||Diophantus||2
