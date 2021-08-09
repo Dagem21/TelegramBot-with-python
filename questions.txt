@@ -96,3 +96,4 @@ Where was Pizza invented?||China||Germany||France||Italy||3||Pizza originated in
 Who is the father of Mathematics?||Nicomachus||Euclid||Archimedes||Diophantus||2
 What band sang 'Eye of the Tiger'?||Survivors||AC/DC||Guns and Roses||Redbone||0
 Which team does Stephen Curry play for?||Los Angeles Lakers||Golden State Warriors||Chicago Bulls||Boston Celtics||1
+Android version 9 is also known as?||Nougat||Orio||Pie||Q||2
