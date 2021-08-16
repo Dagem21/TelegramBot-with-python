@@ -102,3 +102,4 @@ The chemical symbol Sn represents which element?||Silicon||Tin||Scandium||Seleni
 What is the smallest planet in our solar system?||Mercury||Venus||Earth||Mars||0||Mercury is the smallest planet in our solar system with 2,439.7 KM radius.
 How many permanent teeth does a dog have?||22||28||32||42||3
 Which color pill does Neo swallow in The Matrix?||Red||Blue||Green||None||0
+Which mobile phone model is highest selling?||iPhone 6 and iPhone 6 Plus||Samsung Galaxy S4||Nokia 1100||iPhone 11||2||Nokia 1100 has 250 million units sold.
