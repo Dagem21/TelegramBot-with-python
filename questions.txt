@@ -101,3 +101,4 @@ Of the following which is the largest?||Jupiter||Moon||Earth||Sun||3||The sun is
 The chemical symbol Sn represents which element?||Silicon||Tin||Scandium||Selenium||1
 What is the smallest planet in our solar system?||Mercury||Venus||Earth||Mars||0||Mercury is the smallest planet in our solar system with 2,439.7 KM radius.
 How many permanent teeth does a dog have?||22||28||32||42||3
+Which color pill does Neo swallow in The Matrix?||Red||Blue||Green||None||0
