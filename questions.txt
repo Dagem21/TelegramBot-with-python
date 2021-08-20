@@ -108,3 +108,4 @@ Which came first?||Twitter||Facebook||Instagram||Tiktok||1
 Which astrological star sign runs from October 23 to November 22?||Scorpio||Libra||Sagittarius||Capricorn||0
 When was Netflix created?||1995||2002||2000||1997||3||Netflix was founded in August 29, 1997, Scotts Valley, California.
 What city is the capital of Vietnam?||Helsinki||Denver||Hanoi||Ho Chi Minh City||2
+Which on is not a Mammal?||Birds||Humans||Elephants||Bats||0
