@@ -111,3 +111,4 @@ What city is the capital of Vietnam?||Helsinki||Denver||Hanoi||Ho Chi Minh City|
 Which on is not a Mammal?||Birds||Humans||Elephants||Bats||0
 What fruit takes the scientific name Musa?||Mango||Banana||Avocado||Pineapple||1
 What is the most consumed drink in the world after water?||Beer||Coffee||Tea||Coca cola||2
+Which country borders 14 nations and crosses 8 time zones?||China||USA||Russia||India||2
