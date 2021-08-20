@@ -114,3 +114,4 @@ What is the most consumed drink in the world after water?||Beer||Coffee||Tea||Co
 Which country borders 14 nations and crosses 8 time zones?||China||USA||Russia||India||2
 The national animal of Scotland is?||Lion||Fish||Horse||Unicorn||3
 A group of Ravens is known as?||Unkindness||Colony||Rumour||Huddle||0
+How many legs does a spider have?||6||8||10||12||1
