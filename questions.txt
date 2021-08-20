@@ -110,3 +110,4 @@ When was Netflix created?||1995||2002||2000||1997||3||Netflix was founded in Aug
 What city is the capital of Vietnam?||Helsinki||Denver||Hanoi||Ho Chi Minh City||2
 Which on is not a Mammal?||Birds||Humans||Elephants||Bats||0
 What fruit takes the scientific name Musa?||Mango||Banana||Avocado||Pineapple||1
+What is the most consumed drink in the world after water?||Beer||Coffee||Tea||Coca cola||2
