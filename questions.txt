@@ -106,3 +106,4 @@ Which mobile phone model is highest selling?||iPhone 6 and iPhone 6 Plus||Samsun
 What day of the year is known by fans as Star Wars Day?||June 4||May 4||June 14||July 4||1||'May the force ...' - May the 4th
 Which came first?||Twitter||Facebook||Instagram||Tiktok||1
 Which astrological star sign runs from October 23 to November 22?||Scorpio||Libra||Sagittarius||Capricorn||0
+When was Netflix created?||1995||2002||2000||1997||3||Netflix was founded in August 29, 1997, Scotts Valley, California.
