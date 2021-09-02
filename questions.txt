@@ -117,3 +117,4 @@ A group of Ravens is known as?||Unkindness||Colony||Rumour||Huddle||0
 How many legs does a spider have?||6||8||10||12||1
 A person from Czech Republic is called?||Czechnian||Czech Republican||Czech||Republican||2
 Which color has the longest wavelength?||Red||Violet||Blue||Green||0
+Once incubation begins how long does it take on average for chicken eggs to hatch ?||14 days||18 days||21 days||24 days||2
