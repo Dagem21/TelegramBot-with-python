@@ -119,3 +119,4 @@ A person from Czech Republic is called?||Czechnian||Czech Republican||Czech||Rep
 Which color has the longest wavelength?||Red||Violet||Blue||Green||0
 Once incubation begins how long does it take on average for chicken eggs to hatch ?||14 days||18 days||21 days||24 days||2
 What is the largest dam based on water storage capacity?||Bratsk Dam, Russia||Kariba Dam, Zimbabwe||Akosombo Dam, Ghana||Aswan High Dam, Egypt||1
+Which of these companies is not owned by Google?||Nest||AdSense||CapitalG||Oculus VR||3
