@@ -132,3 +132,4 @@ Which animal never gets sick?||Rat||Kangaroo||Shark||Rabbit||2
 A number with 100 zeros is called?||Googol||Nonillion||Centillion||Quindecillion||0
 What is the capital of Iceland?||Iceland||Reykjavik||Wellington||Prague||1
 What percentage of the world's population uses the internet?||40||50||60||70||2
+Bases have a pH of?||0||0 - 7||7||7 - 14||3
