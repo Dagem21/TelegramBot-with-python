@@ -129,3 +129,4 @@ Which one is not in North Africa?||Morocco||Libya||Niger||Egypt||2
 Which one is purple?||FFFF00||FF00FF||00FFFF||F0F0F0||1
 Generally, what shape does Mandatory Signs on the roads have?||Triangle||Rectangle||Octagon||Round||3||Although Stops signs are octagonal, Mandatory signs generally have circular shapes.
 Which animal never gets sick?||Rat||Kangaroo||Shark||Rabbit||2
+A number with 100 zeros is called?||Googol||Nonillion||Centillion||Quindecillion||0
