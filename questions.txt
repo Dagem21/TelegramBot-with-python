@@ -126,3 +126,4 @@ In the 2021 Academy Award, for which movie did Anthony Hopkins win best actor?||
 Emma Raducanu is a?||Footballer||Tennis Player||Heavy Weight Lifter||Musician||1
 How many Studio albums does Rihanna have?||8||7||10||9||0
 Which one is not in North Africa?||Morocco||Libya||Niger||Egypt||2
+Which one is purple?||FFFF00||FF00FF||00FFFF||F0F0F0||1
