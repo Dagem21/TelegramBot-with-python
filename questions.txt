@@ -140,3 +140,4 @@ What is the standard unit to measure weight?||Gram||Kilogram||Pound||Newton||3
 The probability of getting either odd or even number from tossing a die is?||0%||25%||50%||100%||3||Every output from a toss of a fair die is either odd or even.
 Which football club plays their home games at St. Mary's Stadium?||Burnley||Leicester City||Southampton||Brighton||2
 Which country changes its president every year?||Finland||Switzerland||Sweden||Poland||1
+When was Tom and Jerry created?||1940||1960||1980||1990||0
