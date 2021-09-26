@@ -138,3 +138,4 @@ What is the fastest human sense?||Hearing||Sight||Taste||Smell||0
 At least how many different odors can the human nose distinguish?||1 hundred||1 thousand||1 million||1 trillion||3
 What is the standard unit to measure weight?||Gram||Kilogram||Pound||Newton||3
 The probability of getting either odd or even number from tossing a die is?||0%||25%||50%||100%||3||Every output from a toss of a fair die is either odd or even.
+Which football club plays their home games at St. Mary's Stadium?||Burnley||Leicester City||Southampton||Brighton||2
