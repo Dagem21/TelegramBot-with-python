@@ -142,3 +142,4 @@ Which football club plays their home games at St. Mary's Stadium?||Burnley||Leic
 Which country changes its president every year?||Finland||Switzerland||Sweden||Poland||1
 When was Tom and Jerry created?||1940||1960||1980||1990||0
 Which animal has never been to space?||Mice||Monkey||Snake||Fish||2
+Human skin regenerates itself approximately every||3 days||10 days||27 days||63 days||2
