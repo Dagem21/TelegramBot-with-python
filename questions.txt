@@ -147,3 +147,4 @@ When was League of Nations formed?||1890||1967||1945||1920||3
 The scientific name Citrus sinensis is for?||Lemon||Orange||Apple||Watermelon||1
 What is the smallest bone in the human body?||Stapes ||Incus||Malleus||Femur||0
 Who is the father of logic?||Socrates||Herodotus||Aristotle||Wilhelm Wundt||2
+How long is an Olympic swimming pool?||20 meters||30 meters||40 meters||50 meters||3
