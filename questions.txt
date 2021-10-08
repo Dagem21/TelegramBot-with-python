@@ -150,3 +150,4 @@ Who is the father of logic?||Socrates||Herodotus||Aristotle||Wilhelm Wundt||2
 How long is an Olympic swimming pool?||20 meters||30 meters||40 meters||50 meters||3
 What is cynophobia?||Fear of dogs||Fear of fire||Fear of water||Fear of cats||0
 How many languages are written from right to left?||1||3||8||12||3
+What was the first soft drink in space?||Pepsi||Coca Cola||Sprite||None||1
