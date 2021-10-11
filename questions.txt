@@ -153,3 +153,4 @@ How many languages are written from right to left?||1||3||8||12||3
 What was the first soft drink in space?||Pepsi||Coca Cola||Sprite||None||1
 Which country invented Ice Cream?||France||America||China||Japan||2
 What is Earth's largest continent?||Africa||Asia||South America||Europe||1
+How many hearts does an octopus have?||1||2||3||8||2
