@@ -161,3 +161,4 @@ Which one is a vegetable?||Avocado||Potato||Tomato||Cucumber||1
 What is the Zodiac sign for the dates March 21 to April 19?||Aries||Taurus||Gemini||Leo||0
 The DNA similarity between a human being and a banana is?||1%||10%||35%||60%||3
 How many Harry Potter books are there?||5||6||7||8||2
+Which of these is not a landlocked country?||Afghanistan||Norway||Chad||Uzbekistan||1
