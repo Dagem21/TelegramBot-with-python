@@ -164,3 +164,4 @@ How many Harry Potter books are there?||5||6||7||8||2
 Which of these is not a landlocked country?||Afghanistan||Norway||Chad||Uzbekistan||1
 Where was the first ever restaurant opened?||Paris||London||Istanbul||Rome||0
 What is the longest side of a right angled triangle called?||Adjacent||Scalene||Opposite||Hypotenuse||3
+Which country has the most islands?||Sweden||Japan||Australia||Iceland||0
