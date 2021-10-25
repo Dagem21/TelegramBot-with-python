@@ -167,3 +167,4 @@ What is the longest side of a right angled triangle called?||Adjacent||Scalene||
 Which country has the most islands?||Sweden||Japan||Australia||Iceland||0
 How many moons does Saturn have?||79||82||46||62||1
 Philophobia is the fear of?||Fire||Falling in love||Pictures||Light||1
+Who has the biggest nuclear arsenal in the world?||USA||North Korea||Russia||China||2
