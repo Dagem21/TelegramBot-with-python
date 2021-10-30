@@ -172,3 +172,4 @@ What is the capital of turkey?||Ankara||Conakry||Accra||Harare||0
 Where was Marie Curie born?||Italy||Poland||Germany||Belgium||1
 What color is an emerald?||Red||Green||Blue||Colorless||1
 When did the Titanic sink?||1897||1899||1905||1912||3
+What is the most visited country in Africa?||Egypt||South Africa||Morocco||Algeria||0
