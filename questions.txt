@@ -184,3 +184,4 @@ Which surrealist artist painted the melting clocks?||Leonardo da Vinci||Vincent 
 Who wrote the short novel Animal Farm?||Ernest Hemingway||George Orwell||Stephen King||Charles Dickens||1
 What is the smallest particle of an element?||Atom||Electron||Proton||Neutron||0
 Who is the current manager of Crystal Palace?||Patrice Evra||David Moye||Rafael Benitez||Patrick Vieira||3
+Who plays the role of Ross Geller on Friends?||Matt LeBlanc||David Schwimmer||Matthew Perry||Paul Rudd||1
