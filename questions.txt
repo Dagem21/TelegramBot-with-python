@@ -196,3 +196,4 @@ Which company has the most employees?||Tata Group||United States Postal Service|
 Which artist wrote 'Perfect day'?||Lou Reed||John Cale||David Bowie||Iggy Pop||0
 Bavaria is a state in which country?||France||Germany||Italy||Belgium||1
 What are protiens made of?||Lactic acid||Fatty acid||Citric acid||Amino acid||3
+Which actor has played the role of James Bond?||Pierce Brosnan||George Clooney||Nicolas Cage||Christian Bale||0
