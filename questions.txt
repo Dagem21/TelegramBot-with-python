@@ -198,3 +198,4 @@ Bavaria is a state in which country?||France||Germany||Italy||Belgium||1
 What are protiens made of?||Lactic acid||Fatty acid||Citric acid||Amino acid||3
 Which actor has played the role of James Bond?||Pierce Brosnan||George Clooney||Nicolas Cage||Christian Bale||0
 What is the capital of Canada?||Alberta||Ontario||Ottawa||None||2
+In which continent is Nepal?||Europe||Africa||Asia||South America||2
