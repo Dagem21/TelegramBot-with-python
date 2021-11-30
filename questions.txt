@@ -201,3 +201,4 @@ What is the capital of Canada?||Alberta||Ontario||Ottawa||None||2
 In which continent is Nepal?||Europe||Africa||Asia||South America||2
 What is Winnie the Pooh's real name?||Benny Bear||Edward Bear||Honey Bear||Sunny Bear||1
 Which actor is married to actress Emily Blunt?||John Krasinski||Channing Tatum||Jamie Foxx||Mark Wahlberg||0
+Originally the Eiffel Tower was going to be in?||Germany||Canada||Spain||Italy||2
