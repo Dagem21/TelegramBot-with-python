@@ -204,3 +204,4 @@ Which actor is married to actress Emily Blunt?||John Krasinski||Channing Tatum||
 Originally the Eiffel Tower was going to be in?||Germany||Canada||Spain||Italy||2
 Gaia is another name for which planet?||Earth||Saturn||Uranus||Mars||0
 When did the movie Inception come out?||2009||2010||2011||2012||1
+The world's most expensive city to live in is?||Paris, France||New York, USA||Tel Aviv, Israel||Singapore||2
