@@ -205,3 +205,4 @@ Originally the Eiffel Tower was going to be in?||Germany||Canada||Spain||Italy||
 Gaia is another name for which planet?||Earth||Saturn||Uranus||Mars||0
 When did the movie Inception come out?||2009||2010||2011||2012||1
 The world's most expensive city to live in is?||Paris, France||New York, USA||Tel Aviv, Israel||Singapore||2
+Who is the CEO of Google?||Tim Cook ||Sergey Brin||Larry Page||Sundar Pichai||3
