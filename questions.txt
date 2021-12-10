@@ -208,3 +208,4 @@ The world's most expensive city to live in is?||Paris, France||New York, USA||Te
 Who is the CEO of Google?||Tim Cook ||Sergey Brin||Larry Page||Sundar Pichai||3
 Which element does the chemical symbol 'Co' represent?||Cobalt||Chromium||Copper||Copernicium||0
 The Mount Blanc tunnel connects France with?||Spain||Portugal||Italy||Germany||2
+When we close only one of our eyes, our sight decreases by?||10%||20%||40%||50%||1
