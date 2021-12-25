@@ -222,3 +222,4 @@ Since the establishment of the premier league in 1992 which team has been relega
 Which country has a non rectangular flag?||Nepal||Vatican city||Switzerland ||All||3
 Which Zodiac sign comes between Virgo and Scorpio?||Libra||Capricorn||Gemini||Taurus||0
 1 foot is equal to||2.45 cm||12.56 cm||30.48 cm||63.28 cm||2
+Average weight of a human eye is?||13.4 grams||28 grams||32.4 grams||49.6 grams||1
