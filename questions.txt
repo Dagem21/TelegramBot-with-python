@@ -227,3 +227,4 @@ The largest city by population is?||Delhi||New York||Seoul||Tokyo||3
 How many differently shaped Tetris pieces are there?||7||5||6||8||0
 What is the name of Poland in polish?||Polska||Póland||Polszka||Pupcia||0
 Which Zodiac sign is represented by a Crab?||Libra||Virgo||Cancer||Sagittarius||2
+The letter M in the GMT time zone stands for?||Meridian||Mean||Middle||Medium||1
